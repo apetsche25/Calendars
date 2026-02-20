@@ -531,7 +531,7 @@ UID:svk-fin-20260221-2040@mc2026-icehockey
 DTSTAMP:20260220T190000Z
 DTSTART;TZID=Europe/Rome:20260221T204000
 DTEND;TZID=Europe/Rome:20260221T231000
-SUMMARY:Olympics Ice Hockey (Men) — TBD vs TBD
+SUMMARY:Olympics Ice Hockey (Men) — SVK vs FIN
 LOCATION:Milano Santagiulia IHO Arena
 DESCRIPTION:Bronze Medal Game, Game 29
 BEGIN:VALARM
@@ -545,7 +545,7 @@ UID:71c72836965a4afa@mc2026-icehockey
 DTSTAMP:20260220T190000Z
 DTSTART;TZID=Europe/Rome:20260222T141000
 DTEND;TZID=Europe/Rome:20260222T164000
-SUMMARY:Olympics Ice Hockey (Men) — TBD vs TBD
+SUMMARY:Olympics Ice Hockey (Men) — USA vs CAN
 LOCATION:Milano Santagiulia IHO Arena
 DESCRIPTION:Gold Medal Game, Game 30
 BEGIN:VALARM
@@ -615,6 +615,7 @@ LOCATION:Cortina d’Ampezzo, Italy
 DESCRIPTION:Gold Medal
 END:VEVENT
 END:VCALENDAR
+
 
 
 
