@@ -521,7 +521,7 @@ UID:svk-fin-20260221-2040@mc2026-icehockey
 DTSTAMP:20260219T170000Z
 DTSTART;TZID=Europe/Rome:20260221T204000
 DTEND;TZID=Europe/Rome:20260221T231000
-SUMMARY:Olympics Ice Hockey (Men) — SVK vs FIN
+SUMMARY:Olympics Ice Hockey (Men) — TBD vs TBD
 LOCATION:Milano Santagiulia IHO Arena
 DESCRIPTION:Bronze Medal Game, Game 29
 END:VEVENT
@@ -535,5 +535,6 @@ LOCATION:Milano Santagiulia IHO Arena
 DESCRIPTION:Gold Medal Game, Game 30
 END:VEVENT
 END:VCALENDAR
+
 
 
