@@ -280,4 +280,86 @@ LOCATION:Amalie Arena, Tampa, FL
 DESCRIPTION:NHL Regular Season (Home)
 END:VEVENT
 
+
+
+BEGIN:VEVENT
+UID:valspar-2026-practice-mon-20260316@chatgpt
+DTSTAMP:20260227T170000Z
+SUMMARY:Valspar Championship — Practice Day
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+LOCATION:Innisbrook Resort & Golf Club (Copperhead Course)\, 36750 US Highway 19 N\, Palm Harbor\, FL 34684\, USA
+DESCRIPTION:Tournament week at Innisbrook (Copperhead Course).\\nInfo: https://valsparchampionship.com/
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valspar-2026-practice-tue-20260317@chatgpt
+DTSTAMP:20260227T170000Z
+SUMMARY:Valspar Championship — Practice Day
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+LOCATION:Innisbrook Resort & Golf Club (Copperhead Course)\, 36750 US Highway 19 N\, Palm Harbor\, FL 34684\, USA
+DESCRIPTION:Tournament week at Innisbrook (Copperhead Course).\\nInfo: https://valsparchampionship.com/
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valspar-2026-proam-wed-20260318@chatgpt
+DTSTAMP:20260227T170000Z
+SUMMARY:Valspar Championship — Pro-Am / Practice Day
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+LOCATION:Innisbrook Resort & Golf Club (Copperhead Course)\, 36750 US Highway 19 N\, Palm Harbor\, FL 34684\, USA
+DESCRIPTION:Typically Pro-Am and final tune-up day before Round 1.\\nInfo: https://valsparchampionship.com/
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valspar-2026-round1-thu-20260319@chatgpt
+DTSTAMP:20260227T170000Z
+SUMMARY:Valspar Championship — Round 1
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+LOCATION:Innisbrook Resort & Golf Club (Copperhead Course)\, 36750 US Highway 19 N\, Palm Harbor\, FL 34684\, USA
+DESCRIPTION:PGA TOUR competition begins.\\nInfo: https://valsparchampionship.com/
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valspar-2026-round2-fri-20260320@chatgpt
+DTSTAMP:20260227T170000Z
+SUMMARY:Valspar Championship — Round 2
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+LOCATION:Innisbrook Resort & Golf Club (Copperhead Course)\, 36750 US Highway 19 N\, Palm Harbor\, FL 34684\, USA
+DESCRIPTION:Round 2 (cut after 36 holes).\\nInfo: https://valsparchampionship.com/
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valspar-2026-round3-sat-20260321@chatgpt
+DTSTAMP:20260227T170000Z
+SUMMARY:Valspar Championship — Round 3
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+LOCATION:Innisbrook Resort & Golf Club (Copperhead Course)\, 36750 US Highway 19 N\, Palm Harbor\, FL 34684\, USA
+DESCRIPTION:Moving day at Copperhead.\\nInfo: https://valsparchampionship.com/
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:valspar-2026-final-sun-20260322@chatgpt
+DTSTAMP:20260227T170000Z
+SUMMARY:Valspar Championship — Final Round (Trophy Ceremony)
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+LOCATION:Innisbrook Resort & Golf Club (Copperhead Course)\, 36750 US Highway 19 N\, Palm Harbor\, FL 34684\, USA
+DESCRIPTION:Final round and trophy ceremony.\\nInfo: https://valsparchampionship.com/
+STATUS:CONFIRMED
+END:VEVENT
+
+
+
 END:VCALENDAR
+
