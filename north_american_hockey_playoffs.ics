@@ -1,0 +1,493 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//North American Hockey Playoffs 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North American Hockey Playoffs 2026
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:d8e3ab916acef42ac79d@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260421T110000Z
+DTEND:20260421T140000Z
+SUMMARY:AHL Playoffs — Hershey at Bridgeport
+DESCRIPTION:Calder Cup Playoffs — Atlantic Division First Round (best-of-3)\nA4-Bridgeport Islanders vs. A5-Hershey Bears\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:25d604f181e2ce5b55a6@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260422T110000Z
+DTEND:20260422T140000Z
+SUMMARY:AHL Playoffs — Springfield at Charlotte
+DESCRIPTION:Calder Cup Playoffs — Atlantic Division First Round (best-of-3)\nA3-Charlotte Checkers vs. A6-Springfield Thunderbirds\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:b07ed4d0ac17eab67784@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260422T110000Z
+DTEND:20260422T140000Z
+SUMMARY:AHL Playoffs — Rochester at Toronto
+DESCRIPTION:Calder Cup Playoffs — North Division First Round (best-of-3)\nN4-Toronto Marlies vs. N5-Rochester Americans\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:d1fb55bdebe42d98c7ac@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260422T120000Z
+DTEND:20260422T150000Z
+SUMMARY:AHL Playoffs — Milwaukee at Manitoba
+DESCRIPTION:Calder Cup Playoffs — Central Division First Round (best-of-3)\nC4-Manitoba Moose vs. C5-Milwaukee Admirals\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe801792a8a81112ce2@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260422T130500Z
+DTEND:20260422T160500Z
+SUMMARY:AHL Playoffs — San Diego at Colorado
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP2-Colorado Eagles vs. P7-San Diego Gulls\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:f08a43e849427b3f7e30@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260422T140000Z
+DTEND:20260422T170000Z
+SUMMARY:AHL Playoffs — San Jose at Henderson
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP3-Henderson Silver Knights vs. P6-San Jose Barracuda\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:4bb12de78365b701a326@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260422T230000Z
+DTEND:20260423T020000Z
+SUMMARY:OHL Playoffs — Barrie Colts at Brantford Bulldogs
+DESCRIPTION:Playoffs — M\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:TD Civic Centre\, Brantford\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:8bddf37ed8b2189b83f0@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260423T110000Z
+DTEND:20260423T140000Z
+SUMMARY:AHL Playoffs — Bridgeport at Hershey
+DESCRIPTION:Calder Cup Playoffs — Atlantic Division First Round (best-of-3)\nA4-Bridgeport Islanders vs. A5-Hershey Bears\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:b29bf43f84a2c883b5dd@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260423T141000Z
+DTEND:20260423T171000Z
+SUMMARY:AHL Playoffs — Coachella Valley at Bakersfield
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP4-Coachella Valley Firebirds vs. P5-Bakersfield Condors\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:0b6aae4a6fbf52c8cb06@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260423T220000Z
+DTEND:20260424T010000Z
+SUMMARY:QMJHL Playoffs — Blainville-Boisbriand\, Armada at Moncton\, Wildcats
+DESCRIPTION:Playoffs — M\n7:00 PM AT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
+LOCATION:Avenir Centre\, Moncton (NB)
+END:VEVENT
+BEGIN:VEVENT
+UID:f3947ef6ca04e72c5146@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T000500Z
+DTEND:20260424T030500Z
+SUMMARY:USHL Playoffs — Fargo Force at Sioux City Musketeers
+DESCRIPTION:Clark Cup Playoffs — Western Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:9a057a57c3f33b667204@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T020500Z
+DTEND:20260424T050500Z
+SUMMARY:WHL Playoffs — Penticton Vees at Everett Silvertips
+DESCRIPTION:Playoffs — N\n7:05 PM PDT\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Angel of the Winds Arena - Everett\, WA\, Everett\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:7ecb32b1bb6c8e60f39d@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T110000Z
+DTEND:20260424T140000Z
+SUMMARY:AHL Playoffs — Springfield at Charlotte
+DESCRIPTION:Calder Cup Playoffs — Atlantic Division First Round (best-of-3)\nA3-Charlotte Checkers vs. A6-Springfield Thunderbirds\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:45eef76f749afdd148c4@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T110000Z
+DTEND:20260424T140000Z
+SUMMARY:AHL Playoffs — Syracuse at Cleveland
+DESCRIPTION:Calder Cup Playoffs — North Division Semifinals (best-of-5)\nN2-Syracuse Crunch vs. N3-Cleveland Monsters\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:b80664ec7ed3e3aab0d8@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T110500Z
+DTEND:20260424T140500Z
+SUMMARY:AHL Playoffs — Toronto at Rochester
+DESCRIPTION:Calder Cup Playoffs — North Division First Round (best-of-3)\nN4-Toronto Marlies vs. N5-Rochester Americans\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:226430c6eafc23360521@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T120000Z
+DTEND:20260424T150000Z
+SUMMARY:AHL Playoffs — Milwaukee at Manitoba
+DESCRIPTION:Calder Cup Playoffs — Central Division First Round (best-of-3)\nC4-Manitoba Moose vs. C5-Milwaukee Admirals\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:fbef365556ad4299206e@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T130500Z
+DTEND:20260424T160500Z
+SUMMARY:AHL Playoffs — San Diego at Colorado
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP2-Colorado Eagles vs. P7-San Diego Gulls\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:272ebdcbaa4f6e6ad2ae@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T140000Z
+DTEND:20260424T170000Z
+SUMMARY:AHL Playoffs — San Jose at Henderson
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP3-Henderson Silver Knights vs. P6-San Jose Barracuda\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:62250006012fdc6e535d@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T230000Z
+DTEND:20260425T020000Z
+SUMMARY:OHL Playoffs — Barrie Colts at Brantford Bulldogs
+DESCRIPTION:Playoffs — M\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:TD Civic Centre\, Brantford\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:c49ca2ec831dcdedb877@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T230000Z
+DTEND:20260425T020000Z
+SUMMARY:OHL Playoffs — Windsor Spitfires at Kitchener Rangers
+DESCRIPTION:Playoffs — N\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:Kitchener Memorial Auditorium\, Kitchener
+END:VEVENT
+BEGIN:VEVENT
+UID:53d6d80ef2f1cde72ea6@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T230000Z
+DTEND:20260425T020000Z
+SUMMARY:QMJHL Playoffs — Rouyn-Noranda\, Huskies at Chicoutimi\, Saguenéens
+DESCRIPTION:Playoffs — N\n7:00 PM EDT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
+LOCATION:Centre Georges-Vézina\, Chicoutimi QC
+END:VEVENT
+BEGIN:VEVENT
+UID:aadba2c726bf14b4d059@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260424T231000Z
+DTEND:20260425T021000Z
+SUMMARY:USHL Playoffs — Dubuque Fighting Saints at Muskegon Lumberjacks
+DESCRIPTION:Clark Cup Playoffs — Eastern Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:2b08d3d5a39a105f8356@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T000500Z
+DTEND:20260425T030500Z
+SUMMARY:USHL Playoffs — Sioux Falls Stampede at Lincoln Stars
+DESCRIPTION:Clark Cup Playoffs — Western Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:e083f239e2ef473bf70f@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T000500Z
+DTEND:20260425T030500Z
+SUMMARY:USHL Playoffs — Youngstown Phantoms at Madison Capitols
+DESCRIPTION:Clark Cup Playoffs — Eastern Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:2008cf298a9cf77837bc@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T000500Z
+DTEND:20260425T030500Z
+SUMMARY:USHL Playoffs — Fargo Force at Sioux City Musketeers
+DESCRIPTION:Clark Cup Playoffs — Western Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:ff4006d5091dd1eac8fe@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T010000Z
+DTEND:20260425T040000Z
+SUMMARY:WHL Playoffs — Medicine Hat Tigers at Prince Albert Raiders
+DESCRIPTION:Playoffs — M\n7:00 PM ST\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Art Hauser Centre - Prince Albert\, SK\, Prince Albert
+END:VEVENT
+BEGIN:VEVENT
+UID:d05ebe08a2bf1979caee@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T070000Z
+DTEND:20260425T100000Z
+SUMMARY:AHL Playoffs — Hershey at Bridgeport
+DESCRIPTION:Calder Cup Playoffs — Atlantic Division First Round (best-of-3)\nA4-Bridgeport Islanders vs. A5-Hershey Bears\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:7af74123f406a4b8d2fc@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T110000Z
+DTEND:20260425T140000Z
+SUMMARY:AHL Playoffs — Springfield at Charlotte
+DESCRIPTION:Calder Cup Playoffs — Atlantic Division First Round (best-of-3)\nA3-Charlotte Checkers vs. A6-Springfield Thunderbirds\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:655e7b614b8482fd2238@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T130000Z
+DTEND:20260425T160000Z
+SUMMARY:AHL Playoffs — Bakersfield at Coachella Valley
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP4-Coachella Valley Firebirds vs. P5-Bakersfield Condors\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd10f71048f5c0a91cf@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T221000Z
+DTEND:20260426T011000Z
+SUMMARY:USHL Playoffs — Dubuque Fighting Saints at Muskegon Lumberjacks
+DESCRIPTION:Clark Cup Playoffs — Eastern Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:a4346ee56019b7e73d02@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260425T230500Z
+DTEND:20260426T020500Z
+SUMMARY:USHL Playoffs — Sioux Falls Stampede at Lincoln Stars
+DESCRIPTION:Clark Cup Playoffs — Western Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:6a15de458614ce221f02@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T000500Z
+DTEND:20260426T030500Z
+SUMMARY:USHL Playoffs — Youngstown Phantoms at Madison Capitols
+DESCRIPTION:Clark Cup Playoffs — Eastern Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:f109d4b9b4a62b53d09e@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T010000Z
+DTEND:20260426T040000Z
+SUMMARY:WHL Playoffs — Medicine Hat Tigers at Prince Albert Raiders
+DESCRIPTION:Playoffs — M\n7:00 PM ST\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Art Hauser Centre - Prince Albert\, SK\, Prince Albert
+END:VEVENT
+BEGIN:VEVENT
+UID:ce66b75f5de90b608f83@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T013000Z
+DTEND:20260426T043000Z
+SUMMARY:WHL Playoffs — Penticton Vees at Everett Silvertips
+DESCRIPTION:Playoffs — N\n6:30 PM PDT\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Angel of the Winds Arena - Everett\, WA\, Everett\, WA
+END:VEVENT
+BEGIN:VEVENT
+UID:332479d48579fd1e18f8@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T070000Z
+DTEND:20260426T100000Z
+SUMMARY:AHL Playoffs — Milwaukee at Manitoba
+DESCRIPTION:Calder Cup Playoffs — Central Division First Round (best-of-3)\nC4-Manitoba Moose vs. C5-Milwaukee Admirals\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:f4a8a91028002c21fcd3@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T080000Z
+DTEND:20260426T110000Z
+SUMMARY:AHL Playoffs — Syracuse at Cleveland
+DESCRIPTION:Calder Cup Playoffs — North Division Semifinals (best-of-5)\nN2-Syracuse Crunch vs. N3-Cleveland Monsters\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:84d4c332124f1f3351d1@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T080000Z
+DTEND:20260426T110000Z
+SUMMARY:AHL Playoffs — Rochester at Toronto
+DESCRIPTION:Calder Cup Playoffs — North Division First Round (best-of-3)\nN4-Toronto Marlies vs. N5-Rochester Americans\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:a1ad929dca32ff42e9f7@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T090500Z
+DTEND:20260426T120500Z
+SUMMARY:AHL Playoffs — San Diego at Colorado
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP2-Colorado Eagles vs. P7-San Diego Gulls\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:58427c18ad2515884532@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T100000Z
+DTEND:20260426T130000Z
+SUMMARY:AHL Playoffs — San Jose at Henderson
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP3-Henderson Silver Knights vs. P6-San Jose Barracuda\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:2d40015f3ba1703f318e@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T120000Z
+DTEND:20260426T150000Z
+SUMMARY:AHL Playoffs — Bakersfield at Coachella Valley
+DESCRIPTION:Calder Cup Playoffs — Pacific Division First Round (best-of-3)\nP4-Coachella Valley Firebirds vs. P5-Bakersfield Condors\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:c9c702a00432041e4b9d@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T220000Z
+DTEND:20260427T010000Z
+SUMMARY:OHL Playoffs — Brantford Bulldogs at Barrie Colts
+DESCRIPTION:Playoffs — M\n6:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:Sadlon Arena\, Barrie\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:4d38b16e8f43eb6819ec@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260426T220000Z
+DTEND:20260427T010000Z
+SUMMARY:OHL Playoffs — Windsor Spitfires at Kitchener Rangers
+DESCRIPTION:Playoffs — N\n6:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:Kitchener Memorial Auditorium\, Kitchener
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab008b1c36f52266d1e@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260427T230500Z
+DTEND:20260428T020500Z
+SUMMARY:OHL Playoffs — Kitchener Rangers at Windsor Spitfires
+DESCRIPTION:Playoffs — N\n7:05 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:WFCU Centre\, Windsor
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a62472513f43bac276@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260428T020500Z
+DTEND:20260428T050500Z
+SUMMARY:WHL Playoffs — Everett Silvertips at Penticton Vees
+DESCRIPTION:Playoffs — N\n7:05 PM PDT\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:South Okanagan Events Centre - Penticton\, BC\, Penticton\, BC
+END:VEVENT
+BEGIN:VEVENT
+UID:85dd9e861f0aafed2bc5@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260428T120000Z
+DTEND:20260428T150000Z
+SUMMARY:AHL Playoffs — Chicago at Texas
+DESCRIPTION:Calder Cup Playoffs — Central Division Semifinals (best-of-5)\nC2-Chicago Wolves vs. C3-Texas Stars\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:386295236d32a9b9c381@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260428T230000Z
+DTEND:20260429T020000Z
+SUMMARY:OHL Playoffs — Brantford Bulldogs at Barrie Colts
+DESCRIPTION:Playoffs — M\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:Sadlon Arena\, Barrie\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:01421860c14a785d2692@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260428T230500Z
+DTEND:20260429T020500Z
+SUMMARY:USHL Playoffs — Sioux City Musketeers at Fargo Force
+DESCRIPTION:Clark Cup Playoffs — Western Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:00979a87ab852b24362d@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260428T230500Z
+DTEND:20260429T020500Z
+SUMMARY:USHL Playoffs — Madison Capitols at Youngstown Phantoms
+DESCRIPTION:Clark Cup Playoffs — Eastern Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:b1729a1801828d6852af@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260429T000500Z
+DTEND:20260429T030500Z
+SUMMARY:USHL Playoffs — Muskegon Lumberjacks at Dubuque Fighting Saints
+DESCRIPTION:Clark Cup Playoffs — Eastern Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:00c53d0d71b4aae1ece5@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260429T000500Z
+DTEND:20260429T030500Z
+SUMMARY:USHL Playoffs — Lincoln Stars at Sioux Falls Stampede
+DESCRIPTION:Clark Cup Playoffs — Western Conference Semifinal\nConference semifinals.\nSource: https://ushl.com/news/2026/4/12/mens-ice-hockey-dates-times-set-for-conference-semifinals.aspx
+END:VEVENT
+BEGIN:VEVENT
+UID:1240dc471765c4f0bf5e@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260429T010000Z
+DTEND:20260429T040000Z
+SUMMARY:WHL Playoffs — Prince Albert Raiders at Medicine Hat Tigers
+DESCRIPTION:Playoffs — M\n7:00 PM MDT\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Co-op Place - Medicine Hat\, AB\, Medicine Hat\, AB
+END:VEVENT
+BEGIN:VEVENT
+UID:d2ca6e126c91087d8ab6@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260429T020500Z
+DTEND:20260429T050500Z
+SUMMARY:WHL Playoffs — Everett Silvertips at Penticton Vees
+DESCRIPTION:Playoffs — N\n7:05 PM PDT\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:South Okanagan Events Centre - Penticton\, BC\, Penticton\, BC
+END:VEVENT
+BEGIN:VEVENT
+UID:86b05ccf38567f298930@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260429T230500Z
+DTEND:20260430T020500Z
+SUMMARY:OHL Playoffs — Kitchener Rangers at Windsor Spitfires
+DESCRIPTION:Playoffs — N\n7:05 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:WFCU Centre\, Windsor
+END:VEVENT
+BEGIN:VEVENT
+UID:30ee460504f52ae2bad1@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260430T010000Z
+DTEND:20260430T040000Z
+SUMMARY:WHL Playoffs — Prince Albert Raiders at Medicine Hat Tigers
+DESCRIPTION:Playoffs — M\n7:00 PM MDT\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Co-op Place - Medicine Hat\, AB\, Medicine Hat\, AB
+END:VEVENT
+BEGIN:VEVENT
+UID:3eab8c9af27785063441@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260430T120000Z
+DTEND:20260430T150000Z
+SUMMARY:AHL Playoffs — Chicago at Texas
+DESCRIPTION:Calder Cup Playoffs — Central Division Semifinals (best-of-5)\nC2-Chicago Wolves vs. C3-Texas Stars\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:56e2ce76e68355dc598a@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260430T230000Z
+DTEND:20260501T020000Z
+SUMMARY:OHL Playoffs — Barrie Colts at Brantford Bulldogs
+DESCRIPTION:Playoffs — M\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
+LOCATION:TD Civic Centre\, Brantford\, ON
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3b0cdfd69b919cfed4@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260502T010000Z
+DTEND:20260502T040000Z
+SUMMARY:WHL Playoffs — Medicine Hat Tigers at Prince Albert Raiders
+DESCRIPTION:Playoffs — M\n7:00 PM ST\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Art Hauser Centre - Prince Albert\, SK\, Prince Albert
+END:VEVENT
+BEGIN:VEVENT
+UID:ce8816508bb6dcb14741@playoffs-2026
+DTSTAMP:20260420T223625Z
+DTSTART:20260502T020000Z
+DTEND:20260502T050000Z
+SUMMARY:WHL Playoffs — Penticton Vees at Everett Silvertips
+DESCRIPTION:Playoffs — N\n7:00 PM PDT\nSource: https://chl.ca/whl/schedule/217/293/
+LOCATION:Angel of the Winds Arena - Everett\, WA\, Everett\, WA
+END:VEVENT
+END:VCALENDAR
