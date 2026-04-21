@@ -1,1 +1,487 @@
 
+
+=== NHL DEBUG START ===
+2026 Stanley Cup Playoffs 1st round schedule
+Dates, times, TV information for all 8 best-of-7 series
+By
+NHL.com
+@NHLMedia
+April 21, 2026
+Link copied
+The 2026 Stanley Cup Playoffs are underway. Here is the complete schedule for the first round of the playoffs, including TV information and results:
+EASTERN CONFERENCE
+Boston Bruins (1WC) vs. Buffalo Sabres (1A)
+Buffalo leads series 1-0
+Game 1:
+Buffalo 4, Boston 3
+SKIP RESULT/OTHER: Buffalo 4, Boston 3
+Game 2:
+Boston at Buffalo, 7:30 p.m. ET April 21 (ESPN, SN360, TVAS2, NESN, MSG-B)
+PARSED OK: Game 2: Boston at Buffalo -> 2026-04-21T23:30:00+00:00
+Game 3:
+Buffalo at Boston, 7 p.m. ET April 23 (TNT, truTV, HBO Max, SN360, TVAS2, MSG-B, NESN)
+PARSED OK: Game 3: Buffalo at Boston -> 2026-04-23T23:00:00+00:00
+Game 4:
+Buffalo at Boston, 2 p.m. ET April 26 (TNT, truTV, HBO Max, SN, TVAS, MSG-B, NESN)
+PARSED OK: Game 4: Buffalo at Boston -> 2026-04-26T18:00:00+00:00
+*Game 5:
+Boston at Buffalo, April 28 TBD
+SKIP TBD: Boston at Buffalo, April 28 TBD
+*Game 6:
+Buffalo at Boston, May 1 TBD
+SKIP TBD: Buffalo at Boston, May 1 TBD
+*Game 7:
+Boston at Buffalo, May 3 TBD
+SKIP TBD: Boston at Buffalo, May 3 TBD
+*- If necessary
+Complete coverage of Bruins-Sabres series
+Montreal Canadiens (3A) vs. Tampa Bay Lightning (2A)
+Montreal leads series 1-0
+Game 1:
+Montreal 4, Tampa Bay 3 (OT)
+SKIP RESULT/OTHER: Montreal 4, Tampa Bay 3 (OT)
+Game 2:
+Montreal at Tampa Bay, 7 p.m. ET April 21 (ESPN2, SN, CBC, TVAS, The Spot)
+PARSED OK: Game 2: Montreal at Tampa Bay -> 2026-04-21T23:00:00+00:00
+Game 3:
+Tampa Bay at Montreal, 7 p.m. ET April 24 (TNT, truTV, HBO Max, SN, CBC, TVAS, The Spot)
+PARSED OK: Game 3: Tampa Bay at Montreal -> 2026-04-24T23:00:00+00:00
+Game 4:
+Tampa Bay at Montreal, 7 p.m. ET April 26 (ESPN, SNE, SNO, SNP, CBC, TVAS, The Spot)
+PARSED OK: Game 4: Tampa Bay at Montreal -> 2026-04-26T23:00:00+00:00
+*Game 5:
+Montreal at Tampa Bay, April 29 TBD
+SKIP TBD: Montreal at Tampa Bay, April 29 TBD
+*Game 6:
+Tampa Bay at Montreal, May 1 TBD
+SKIP TBD: Tampa Bay at Montreal, May 1 TBD
+*Game 7:
+Montreal at Tampa Bay, May 3 TBD
+SKIP TBD: Montreal at Tampa Bay, May 3 TBD
+*- If necessary
+Complete coverage of Canadiens-Lightning series
+Ottawa Senators (2WC) vs. Carolina Hurricanes (1M)
+Carolina leads series 2-0
+Game 1:
+Carolina 2, Ottawa 0
+SKIP RESULT/OTHER: Carolina 2, Ottawa 0
+Game 2:
+Carolina 3, Ottawa 2 (2OT)
+SKIP RESULT/OTHER: Carolina 3, Ottawa 2 (2OT)
+Game 3:
+Carolina at Ottawa, 7:30 p.m. ET April 23 (TBS, HBO Max, SN, CBC, TVAS, FDSNSO)
+PARSED OK: Game 3: Carolina at Ottawa -> 2026-04-23T23:30:00+00:00
+Game 4:
+Carolina at Ottawa, 3 p.m. ET April 25 (TBS, truTV, HBO Max, SN, TVAS, FDSNSO)
+PARSED OK: Game 4: Carolina at Ottawa -> 2026-04-25T19:00:00+00:00
+*Game 5:
+Ottawa at Carolina, April 27 TBD
+SKIP TBD: Ottawa at Carolina, April 27 TBD
+*Game 6:
+Carolina at Ottawa, April 30n TBD
+SKIP TBD: Carolina at Ottawa, April 30n TBD
+*Game 7:
+Ottawa at Carolina, May 2 TBD
+SKIP TBD: Ottawa at Carolina, May 2 TBD
+*- If necessary
+Complete coverage of Senators-Hurricanes series
+Philadelphia Flyers (3M) vs. Pittsburgh Penguins (2M)
+Philadelphia leads series 2-0
+Game 1:
+Philadelphia 3, Pittsburgh 2
+SKIP RESULT/OTHER: Philadelphia 3, Pittsburgh 2
+Game 2:
+Philadelphia 3, Pittsburgh 0
+SKIP RESULT/OTHER: Philadelphia 3, Pittsburgh 0
+Game 3:
+Pittsburgh at Philadelphia, 7 p.m. ET April 22 (TNT, truTV, HBO Max, SNP, SNO, SNE, SN360, TVAS, SN-PIT, NBCSP)
+PARSED OK: Game 3: Pittsburgh at Philadelphia -> 2026-04-22T23:00:00+00:00
+Game 4:
+Pittsburgh at Philadelphia, 8 p.m. ET April 25 (TBS, truTV, HBO Max, SN, TVAS, SN-PIT, NBCSP)
+PARSED OK: Game 4: Pittsburgh at Philadelphia -> 2026-04-26T00:00:00+00:00
+*Game 5:
+Philadelphia at Pittsburgh, April 27 TBD
+SKIP TBD: Philadelphia at Pittsburgh, April 27 TBD
+*Game 6:
+Pittsburgh at Philadelphia, April 29 TBD
+SKIP TBD: Pittsburgh at Philadelphia, April 29 TBD
+*Game 7:
+Philadelphia at Pittsburgh, May 2 TBD
+SKIP TBD: Philadelphia at Pittsburgh, May 2 TBD
+*- If necessary
+Complete coverage of Flyers-Penguins series
+WESTERN CONFERENCE
+Los Angeles Kings (2WC) vs. Colorado Avalanche (1C)
+Colorado leads series 1-0
+Game 1:
+Colorado 2, Los Angeles 1
+SKIP RESULT/OTHER: Colorado 2, Los Angeles 1
+Game 2:
+Los Angeles at Colorado, 10 p.m. ET April 21 (ESPN, SN360, TVAS, FDSNSC, ALT)
+PARSED OK: Game 2: Los Angeles at Colorado -> 2026-04-22T02:00:00+00:00
+Game 3:
+Colorado at Los Angeles, 10 p.m. April 23 (TNT, truTV, HBO Max, SN, SN360, TVAS, ALT, FDSNSC)
+FAILED PARSE: Colorado at Los Angeles, 10 p.m. April 23 (TNT, truTV, HBO Max, SN, SN360, TVAS, ALT, FDSNSC)
+Game 4:
+Colorado at Los Angeles, 4:30 p.m. ET April 26 (TNT, truTV, HBO Max, SNW, SNP, SN360, TVAS2, ALT, FDSNSC)
+PARSED OK: Game 4: Colorado at Los Angeles -> 2026-04-26T20:30:00+00:00
+*Game 5:
+Los Angeles at Colorado, April 29 TBD
+SKIP TBD: Los Angeles at Colorado, April 29 TBD
+*Game 6:
+Colorado at Los Angeles, May 1 TBD
+SKIP TBD: Colorado at Los Angeles, May 1 TBD
+*Game 7:
+Los Angeles at Colorado, May 3 TBD
+SKIP TBD: Los Angeles at Colorado, May 3 TBD
+*- If necessary
+Complete coverage of Kings-Avalanche series
+Minnesota Wild (3C) vs. Dallas Stars (2C)
+Series tied 1-1
+Game 1:
+Minnesota 6, Dallas 1
+SKIP RESULT/OTHER: Minnesota 6, Dallas 1
+Game 2:
+Dallas 4, Minnesota 2
+SKIP RESULT/OTHER: Dallas 4, Minnesota 2
+Game 3:
+Dallas at Minnesota, 9:30 p.m. ET April 22 (TNT, truTV, HBO Max, SN360, TVAS, Victory+, FDSNNO, FDSNWI)
+PARSED OK: Game 3: Dallas at Minnesota -> 2026-04-23T01:30:00+00:00
+Game 4:
+Dallas at Minnesota, 5:30 p.m. ET April 25 (TBS, truTV, HBO Max, SNO, SNW, SNP, TVAS, Victory+, FDSNNO, FDSNWI)
+PARSED OK: Game 4: Dallas at Minnesota -> 2026-04-25T21:30:00+00:00
+Game 5:
+Minnesota at Dallas, April 28 TBD
+SKIP TBD: Minnesota at Dallas, April 28 TBD
+*Game 6:
+Dallas at Minnesota, April 30 TBD
+SKIP TBD: Dallas at Minnesota, April 30 TBD
+*Game 7:
+Minnesota at Dallas, May 2 TBD
+SKIP TBD: Minnesota at Dallas, May 2 TBD
+*- If necessary
+Complete coverage of Wild-Stars series
+Utah Mammoth (1WC) vs. Vegas Golden Knights (1P)
+Vegas leads series 1-0
+Game 1:
+Vegas 4, Utah 2
+SKIP RESULT/OTHER: Vegas 4, Utah 2
+Game 2:
+Utah at Vegas, 9:30 p.m. ET April 21 (ESPN2, SN, CBC, TVAS2, Utah16, SCRIPPS)
+PARSED OK: Game 2: Utah at Vegas -> 2026-04-22T01:30:00+00:00
+Game 3:
+Vegas at Utah, 9:30 p.m. ET April 24 (TBS, HBO Max, SN360, TVAS2, SCRIPPS, Utah16)
+PARSED OK: Game 3: Vegas at Utah -> 2026-04-25T01:30:00+00:00
+Game 4:
+Vegas at Utah, April 27 TBD (ESPN)
+SKIP TBD: Vegas at Utah, April 27 TBD (ESPN)
+*Game 5:
+Utah at Vegas, April 29 TBD
+SKIP TBD: Utah at Vegas, April 29 TBD
+*Game 6:
+Vegas at Utah, May 1 TBD
+SKIP TBD: Vegas at Utah, May 1 TBD
+*Game 7:
+Utah at Vegas, May 3 TBD
+SKIP TBD: Utah at Vegas, May 3 TBD
+*- If necessary
+Complete coverage of Mammoth-Golden Knights series
+Anaheim Ducks (3P) vs. Edmonton Oilers (2P)
+Edmonton leads series 1-0
+Game 1:
+Edmonton 4, Anaheim 3
+SKIP RESULT/OTHER: Edmonton 4, Anaheim 3
+Game 2:
+Anaheim at Edmonton, 10 p.m. ET April 22 (TBS, HBO Max, SN, CBC, TVAS2, KCOP-13, Victory+)
+PARSED OK: Game 2: Anaheim at Edmonton -> 2026-04-23T02:00:00+00:00
+Game 3:
+Edmonton at Anaheim, 10 p.m. ET April 24 (TNT, truTV, HBO Max, SN, CBC, TVAS, KCOP-13, Victory+)
+PARSED OK: Game 3: Edmonton at Anaheim -> 2026-04-25T02:00:00+00:00
+Game 4:
+Edmonton at Anaheim, 9:30 p.m. ET April 26 (ESPN, SN, CBC, TVAS2, Victory+)
+PARSED OK: Game 4: Edmonton at Anaheim -> 2026-04-27T01:30:00+00:00
+*Game 5:
+Anaheim at Edmonton, April 28 TBD
+SKIP TBD: Anaheim at Edmonton, April 28 TBD
+*Game 6:
+Edmonton at Anaheim, April 30 TBD
+SKIP TBD: Edmonton at Anaheim, April 30 TBD
+*Game 7:
+Anaheim at Edmonton, May 2 TBD
+SKIP TBD: Anaheim at Edmonton, May 2 TBD
+*- If necessary
+Complete coverage of Ducks-Oilers series
+=== NHL DEBUG END ===
+
+[INFO] NHL: 19 upcoming scheduled games found
+[ERROR] AHL: 403 Client Error: Forbidden for url: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+[INFO] USHL: 12 upcoming scheduled games found
+[INFO] OHL: 9 upcoming scheduled games found
+[INFO] QMJHL: 2 upcoming scheduled games found
+[INFO] WHL: 10 upcoming scheduled games found
+[INFO] Total events: 52
+[INFO] Wrote north_american_hockey_playoffs.ics
+[main 86951e7] Auto-update hockey playoff schedule
+ Committer: Adam Petsche <adam@MacBookAir.lan>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 52 insertions(+), 252 deletions(-)
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[ERROR] Git push failed: Command '['git', 'push']' returned non-zero exit status 128.
+
+=== NHL DEBUG START ===
+2026 Stanley Cup Playoffs 1st round schedule
+Dates, times, TV information for all 8 best-of-7 series
+By
+NHL.com
+@NHLMedia
+April 21, 2026
+Link copied
+The 2026 Stanley Cup Playoffs are underway. Here is the complete schedule for the first round of the playoffs, including TV information and results:
+EASTERN CONFERENCE
+Boston Bruins (1WC) vs. Buffalo Sabres (1A)
+Buffalo leads series 1-0
+Game 1:
+Buffalo 4, Boston 3
+SKIP RESULT/OTHER: Buffalo 4, Boston 3
+Game 2:
+Boston at Buffalo, 7:30 p.m. ET April 21 (ESPN, SN360, TVAS2, NESN, MSG-B)
+PARSED OK: Game 2: Boston at Buffalo -> 2026-04-21T23:30:00+00:00
+Game 3:
+Buffalo at Boston, 7 p.m. ET April 23 (TNT, truTV, HBO Max, SN360, TVAS2, MSG-B, NESN)
+PARSED OK: Game 3: Buffalo at Boston -> 2026-04-23T23:00:00+00:00
+Game 4:
+Buffalo at Boston, 2 p.m. ET April 26 (TNT, truTV, HBO Max, SN, TVAS, MSG-B, NESN)
+PARSED OK: Game 4: Buffalo at Boston -> 2026-04-26T18:00:00+00:00
+*Game 5:
+Boston at Buffalo, April 28 TBD
+SKIP TBD: Boston at Buffalo, April 28 TBD
+*Game 6:
+Buffalo at Boston, May 1 TBD
+SKIP TBD: Buffalo at Boston, May 1 TBD
+*Game 7:
+Boston at Buffalo, May 3 TBD
+SKIP TBD: Boston at Buffalo, May 3 TBD
+*- If necessary
+Complete coverage of Bruins-Sabres series
+Montreal Canadiens (3A) vs. Tampa Bay Lightning (2A)
+Montreal leads series 1-0
+Game 1:
+Montreal 4, Tampa Bay 3 (OT)
+SKIP RESULT/OTHER: Montreal 4, Tampa Bay 3 (OT)
+Game 2:
+Montreal at Tampa Bay, 7 p.m. ET April 21 (ESPN2, SN, CBC, TVAS, The Spot)
+PARSED OK: Game 2: Montreal at Tampa Bay -> 2026-04-21T23:00:00+00:00
+Game 3:
+Tampa Bay at Montreal, 7 p.m. ET April 24 (TNT, truTV, HBO Max, SN, CBC, TVAS, The Spot)
+PARSED OK: Game 3: Tampa Bay at Montreal -> 2026-04-24T23:00:00+00:00
+Game 4:
+Tampa Bay at Montreal, 7 p.m. ET April 26 (ESPN, SNE, SNO, SNP, CBC, TVAS, The Spot)
+PARSED OK: Game 4: Tampa Bay at Montreal -> 2026-04-26T23:00:00+00:00
+*Game 5:
+Montreal at Tampa Bay, April 29 TBD
+SKIP TBD: Montreal at Tampa Bay, April 29 TBD
+*Game 6:
+Tampa Bay at Montreal, May 1 TBD
+SKIP TBD: Tampa Bay at Montreal, May 1 TBD
+*Game 7:
+Montreal at Tampa Bay, May 3 TBD
+SKIP TBD: Montreal at Tampa Bay, May 3 TBD
+*- If necessary
+Complete coverage of Canadiens-Lightning series
+Ottawa Senators (2WC) vs. Carolina Hurricanes (1M)
+Carolina leads series 2-0
+Game 1:
+Carolina 2, Ottawa 0
+SKIP RESULT/OTHER: Carolina 2, Ottawa 0
+Game 2:
+Carolina 3, Ottawa 2 (2OT)
+SKIP RESULT/OTHER: Carolina 3, Ottawa 2 (2OT)
+Game 3:
+Carolina at Ottawa, 7:30 p.m. ET April 23 (TBS, HBO Max, SN, CBC, TVAS, FDSNSO)
+PARSED OK: Game 3: Carolina at Ottawa -> 2026-04-23T23:30:00+00:00
+Game 4:
+Carolina at Ottawa, 3 p.m. ET April 25 (TBS, truTV, HBO Max, SN, TVAS, FDSNSO)
+PARSED OK: Game 4: Carolina at Ottawa -> 2026-04-25T19:00:00+00:00
+*Game 5:
+Ottawa at Carolina, April 27 TBD
+SKIP TBD: Ottawa at Carolina, April 27 TBD
+*Game 6:
+Carolina at Ottawa, April 30n TBD
+SKIP TBD: Carolina at Ottawa, April 30n TBD
+*Game 7:
+Ottawa at Carolina, May 2 TBD
+SKIP TBD: Ottawa at Carolina, May 2 TBD
+*- If necessary
+Complete coverage of Senators-Hurricanes series
+Philadelphia Flyers (3M) vs. Pittsburgh Penguins (2M)
+Philadelphia leads series 2-0
+Game 1:
+Philadelphia 3, Pittsburgh 2
+SKIP RESULT/OTHER: Philadelphia 3, Pittsburgh 2
+Game 2:
+Philadelphia 3, Pittsburgh 0
+SKIP RESULT/OTHER: Philadelphia 3, Pittsburgh 0
+Game 3:
+Pittsburgh at Philadelphia, 7 p.m. ET April 22 (TNT, truTV, HBO Max, SNP, SNO, SNE, SN360, TVAS, SN-PIT, NBCSP)
+PARSED OK: Game 3: Pittsburgh at Philadelphia -> 2026-04-22T23:00:00+00:00
+Game 4:
+Pittsburgh at Philadelphia, 8 p.m. ET April 25 (TBS, truTV, HBO Max, SN, TVAS, SN-PIT, NBCSP)
+PARSED OK: Game 4: Pittsburgh at Philadelphia -> 2026-04-26T00:00:00+00:00
+*Game 5:
+Philadelphia at Pittsburgh, April 27 TBD
+SKIP TBD: Philadelphia at Pittsburgh, April 27 TBD
+*Game 6:
+Pittsburgh at Philadelphia, April 29 TBD
+SKIP TBD: Pittsburgh at Philadelphia, April 29 TBD
+*Game 7:
+Philadelphia at Pittsburgh, May 2 TBD
+SKIP TBD: Philadelphia at Pittsburgh, May 2 TBD
+*- If necessary
+Complete coverage of Flyers-Penguins series
+WESTERN CONFERENCE
+Los Angeles Kings (2WC) vs. Colorado Avalanche (1C)
+Colorado leads series 1-0
+Game 1:
+Colorado 2, Los Angeles 1
+SKIP RESULT/OTHER: Colorado 2, Los Angeles 1
+Game 2:
+Los Angeles at Colorado, 10 p.m. ET April 21 (ESPN, SN360, TVAS, FDSNSC, ALT)
+PARSED OK: Game 2: Los Angeles at Colorado -> 2026-04-22T02:00:00+00:00
+Game 3:
+Colorado at Los Angeles, 10 p.m. April 23 (TNT, truTV, HBO Max, SN, SN360, TVAS, ALT, FDSNSC)
+FAILED PARSE: Colorado at Los Angeles, 10 p.m. April 23 (TNT, truTV, HBO Max, SN, SN360, TVAS, ALT, FDSNSC)
+Game 4:
+Colorado at Los Angeles, 4:30 p.m. ET April 26 (TNT, truTV, HBO Max, SNW, SNP, SN360, TVAS2, ALT, FDSNSC)
+PARSED OK: Game 4: Colorado at Los Angeles -> 2026-04-26T20:30:00+00:00
+*Game 5:
+Los Angeles at Colorado, April 29 TBD
+SKIP TBD: Los Angeles at Colorado, April 29 TBD
+*Game 6:
+Colorado at Los Angeles, May 1 TBD
+SKIP TBD: Colorado at Los Angeles, May 1 TBD
+*Game 7:
+Los Angeles at Colorado, May 3 TBD
+SKIP TBD: Los Angeles at Colorado, May 3 TBD
+*- If necessary
+Complete coverage of Kings-Avalanche series
+Minnesota Wild (3C) vs. Dallas Stars (2C)
+Series tied 1-1
+Game 1:
+Minnesota 6, Dallas 1
+SKIP RESULT/OTHER: Minnesota 6, Dallas 1
+Game 2:
+Dallas 4, Minnesota 2
+SKIP RESULT/OTHER: Dallas 4, Minnesota 2
+Game 3:
+Dallas at Minnesota, 9:30 p.m. ET April 22 (TNT, truTV, HBO Max, SN360, TVAS, Victory+, FDSNNO, FDSNWI)
+PARSED OK: Game 3: Dallas at Minnesota -> 2026-04-23T01:30:00+00:00
+Game 4:
+Dallas at Minnesota, 5:30 p.m. ET April 25 (TBS, truTV, HBO Max, SNO, SNW, SNP, TVAS, Victory+, FDSNNO, FDSNWI)
+PARSED OK: Game 4: Dallas at Minnesota -> 2026-04-25T21:30:00+00:00
+Game 5:
+Minnesota at Dallas, April 28 TBD
+SKIP TBD: Minnesota at Dallas, April 28 TBD
+*Game 6:
+Dallas at Minnesota, April 30 TBD
+SKIP TBD: Dallas at Minnesota, April 30 TBD
+*Game 7:
+Minnesota at Dallas, May 2 TBD
+SKIP TBD: Minnesota at Dallas, May 2 TBD
+*- If necessary
+Complete coverage of Wild-Stars series
+Utah Mammoth (1WC) vs. Vegas Golden Knights (1P)
+Vegas leads series 1-0
+Game 1:
+Vegas 4, Utah 2
+SKIP RESULT/OTHER: Vegas 4, Utah 2
+Game 2:
+Utah at Vegas, 9:30 p.m. ET April 21 (ESPN2, SN, CBC, TVAS2, Utah16, SCRIPPS)
+PARSED OK: Game 2: Utah at Vegas -> 2026-04-22T01:30:00+00:00
+Game 3:
+Vegas at Utah, 9:30 p.m. ET April 24 (TBS, HBO Max, SN360, TVAS2, SCRIPPS, Utah16)
+PARSED OK: Game 3: Vegas at Utah -> 2026-04-25T01:30:00+00:00
+Game 4:
+Vegas at Utah, April 27 TBD (ESPN)
+SKIP TBD: Vegas at Utah, April 27 TBD (ESPN)
+*Game 5:
+Utah at Vegas, April 29 TBD
+SKIP TBD: Utah at Vegas, April 29 TBD
+*Game 6:
+Vegas at Utah, May 1 TBD
+SKIP TBD: Vegas at Utah, May 1 TBD
+*Game 7:
+Utah at Vegas, May 3 TBD
+SKIP TBD: Utah at Vegas, May 3 TBD
+*- If necessary
+Complete coverage of Mammoth-Golden Knights series
+Anaheim Ducks (3P) vs. Edmonton Oilers (2P)
+Edmonton leads series 1-0
+Game 1:
+Edmonton 4, Anaheim 3
+SKIP RESULT/OTHER: Edmonton 4, Anaheim 3
+Game 2:
+Anaheim at Edmonton, 10 p.m. ET April 22 (TBS, HBO Max, SN, CBC, TVAS2, KCOP-13, Victory+)
+PARSED OK: Game 2: Anaheim at Edmonton -> 2026-04-23T02:00:00+00:00
+Game 3:
+Edmonton at Anaheim, 10 p.m. ET April 24 (TNT, truTV, HBO Max, SN, CBC, TVAS, KCOP-13, Victory+)
+PARSED OK: Game 3: Edmonton at Anaheim -> 2026-04-25T02:00:00+00:00
+Game 4:
+Edmonton at Anaheim, 9:30 p.m. ET April 26 (ESPN, SN, CBC, TVAS2, Victory+)
+PARSED OK: Game 4: Edmonton at Anaheim -> 2026-04-27T01:30:00+00:00
+*Game 5:
+Anaheim at Edmonton, April 28 TBD
+SKIP TBD: Anaheim at Edmonton, April 28 TBD
+*Game 6:
+Edmonton at Anaheim, April 30 TBD
+SKIP TBD: Edmonton at Anaheim, April 30 TBD
+*Game 7:
+Anaheim at Edmonton, May 2 TBD
+SKIP TBD: Anaheim at Edmonton, May 2 TBD
+*- If necessary
+Complete coverage of Ducks-Oilers series
+=== NHL DEBUG END ===
+
+[INFO] NHL: 19 upcoming scheduled games found
+[ERROR] AHL: 403 Client Error: Forbidden for url: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+[INFO] USHL: 12 upcoming scheduled games found
+[INFO] OHL: 9 upcoming scheduled games found
+[INFO] QMJHL: 2 upcoming scheduled games found
+[INFO] WHL: 10 upcoming scheduled games found
+[INFO] Total events: 52
+[INFO] Wrote north_american_hockey_playoffs.ics
+[main 85b6ad9] Auto-update hockey playoff schedule
+ Committer: Adam Petsche <adam@MacBookAir.lan>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 52 insertions(+), 52 deletions(-)
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[ERROR] Git push failed: Command '['git', 'push']' returned non-zero exit status 128.

@@ -722,7 +722,7 @@ def main() -> int:
         f.write(ics_text)
 
     print(f"[INFO] Wrote {OUTPUT_FILE}")
-    push_to_github(OUTPUT_FILE)
+    # push_to_github(OUTPUT_FILE)
     return 0    
 
 if __name__ == "__main__":
