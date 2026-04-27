@@ -327,14 +327,14 @@ def fetch_nhl_events() -> List[GameEvent]:
     inline_game_re = re.compile(r"^\*?Game\s+(\d+):\s*(.+)$", re.IGNORECASE)
 
     detail_re = re.compile(
-        r"^(?P<away>.+?)\s+at\s+(?P<home>.+?),\s+"
-        r"(?:(?P<time>\d{1,2}(?::\d{2})?\s*[ap]\.m\.)\s*ET\s+)?"
-        r"(?P<month>[A-Za-z]+)\s+(?P<day>\d{1,2})"
-        r"(?:[A-Za-z]+)?"
-        r"(?:\s+(?P<tbd>TBD))?"
-        r"(?:\s*\((?P<tv>.*?)\))?$",
-        re.IGNORECASE,
-    )
+    r"^(?P<away>.+?)\s+at\s+(?P<home>.+?)\s*[-–]{1,2}\s+"
+    r"(?P<time>\d{1,2}(?::\d{2})?\s*[ap]\.m\.)\s*ET,?\s*"
+    r"(?:[A-Za-z]+,?\s*)?"  # optional weekday
+    r"(?P<month>[A-Za-z]+)\s+(?P<day>\d{1,2})"
+    r"(?:\s+(?P<tbd>TBD))?"
+    r"(?:\s*\((?P<tv>.*?)\))?$",
+    re.IGNORECASE,
+)
 
     print("\n=== NHL DEBUG START ===")
 
