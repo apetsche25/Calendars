@@ -440,8 +440,8 @@ def fetch_ahl_events() -> List[GameEvent]:
     round_line_re = re.compile(r"^(Atlantic|North|Central|Pacific)\s+Division\s+(First Round|Semifinals).*$")
     series_line_re = re.compile(r"^[A-Z]\d[-–].+?\s+vs\.\s+.+$")
     game_re = re.compile(
-        r"^Game\s+\d+\s+-\s+[A-Za-z]{3}\.,\s+([A-Za-z]{3})\.\s+(\d{1,2})\s+-\s+(.+?)\s+at\s+(.+?),\s+(\d{1,2}:\d{2})$"
-    )
+    r"^Game\s+\d+\s+-\s+[A-Za-z]{3}\.,\s+([A-Za-z]{3})\.?\s+(\d{1,2})\s+-\s+(.+?)\s+at\s+(.+?),\s+(\d{1,2}:\d{2})$"
+)
 
     for line in lines:
         line = line.lstrip("^*").strip()
