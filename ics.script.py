@@ -697,6 +697,8 @@ def main() -> int:
         ("WHL", lambda: fetch_chl_schedule_events("WHL", WHL_SCHEDULE_URL)),
     ]
 
+    from datetime import datetime
+   
     for name, parser in parsers:
         try:
             events = parser()
@@ -716,6 +718,7 @@ def main() -> int:
     else:
         print(f"[INFO] Total events: {len(final_events)}")
 
+    print(f"[RUN] {datetime.now().isoformat()}")
     ics_text = build_ics(final_events)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8", newline="") as f:
