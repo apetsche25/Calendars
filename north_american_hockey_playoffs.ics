@@ -6,68 +6,16 @@ METHOD:PUBLISH
 X-WR-CALNAME:North American Hockey Playoffs 2026
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:9fe7f2dfcf6d2c03b825@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260502T233000Z
-DTEND:20260503T023000Z
-SUMMARY:OHL Playoffs — Brantford Bulldogs at Barrie Colts
-DESCRIPTION:Playoffs — M\n7:30 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
-LOCATION:Sadlon Arena\, Barrie\, ON
-END:VEVENT
-BEGIN:VEVENT
-UID:9183559396ad58acd3f5@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260503T000000Z
-DTEND:20260503T030000Z
-SUMMARY:AHL Playoffs — Texas at Chicago
-DESCRIPTION:Calder Cup Playoffs — Central Division Semifinals (best-of-5)\nC2-Chicago Wolves vs. C3-Texas Stars\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
-END:VEVENT
-BEGIN:VEVENT
-UID:955b8c412813d2124347@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260503T190000Z
-DTEND:20260503T220000Z
-SUMMARY:AHL Playoffs — Cleveland at Syracuse
-DESCRIPTION:Calder Cup Playoffs — North Division Semifinals (best-of-5)\nN2-Syracuse Crunch vs. N3-Cleveland Monsters\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
-END:VEVENT
-BEGIN:VEVENT
-UID:b9b4283a5a22a702185a@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260503T190000Z
-DTEND:20260503T220000Z
-SUMMARY:QMJHL Playoffs — Moncton\, Wildcats at Blainville-Boisbriand\, Armada
-DESCRIPTION:Playoffs — M\n3:00 PM EDT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
-LOCATION:Centre d'excellence Sports Rousseau\, Boisbriand QC
-END:VEVENT
-BEGIN:VEVENT
-UID:09966b243a96ae6dc869@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260503T200000Z
-DTEND:20260503T230000Z
-SUMMARY:AHL Playoffs — Texas at Chicago
-DESCRIPTION:Calder Cup Playoffs — Central Division Semifinals (best-of-5)\nC2-Chicago Wolves vs. C3-Texas Stars\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
-END:VEVENT
-BEGIN:VEVENT
-UID:d4bca81320911d81f914@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260503T200000Z
-DTEND:20260503T230000Z
-SUMMARY:QMJHL Playoffs — Chicoutimi\, Saguenéens at Rouyn-Noranda\, Huskies
-DESCRIPTION:Playoffs — N\n4:00 PM EDT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
-LOCATION:Aréna Glencore\, Rouyn-Noranda (QC)
-END:VEVENT
-BEGIN:VEVENT
-UID:f05b265fbeabda0b8a00@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260504T000000Z
-DTEND:20260504T030000Z
-SUMMARY:WHL Playoffs — Prince Albert Raiders at Medicine Hat Tigers
-DESCRIPTION:Playoffs — M\n6:00 PM MDT\nSource: https://chl.ca/whl/schedule/217/293/
-LOCATION:Co-op Place - Medicine Hat\, AB\, Medicine Hat\, AB
+UID:520f79add1ef58ac8232@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260504T230000Z
+DTEND:20260505T020000Z
+SUMMARY:NHL Playoffs — Philadelphia at Carolina
+DESCRIPTION:Stanley Cup Playoffs — Philadelphia Flyers (3M) vs. Carolina Hurricanes (1M)\nGame 2. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
 END:VEVENT
 BEGIN:VEVENT
 UID:6536c0f4224a47ac29f7@playoffs-2026
-DTSTAMP:20260502T050006Z
+DTSTAMP:20260504T154657Z
 DTSTART:20260504T230000Z
 DTEND:20260505T020000Z
 SUMMARY:OHL Playoffs — Barrie Colts at Brantford Bulldogs
@@ -75,28 +23,252 @@ DESCRIPTION:Playoffs — M\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217
 LOCATION:TD Civic Centre\, Brantford\, ON
 END:VEVENT
 BEGIN:VEVENT
+UID:47f21cc2ea1489836afc@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260505T013000Z
+DTEND:20260505T043000Z
+SUMMARY:NHL Playoffs — Anaheim at Vegas
+DESCRIPTION:Stanley Cup Playoffs — Anaheim Ducks (3P) vs. Vegas Golden Knights (1P)\nGame 1. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:83ba796c5e676dc29f50@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260505T020000Z
+DTEND:20260505T050000Z
+SUMMARY:AHL Playoffs — Colorado at Henderson
+DESCRIPTION:Calder Cup Playoffs — \nP2-Colorado Eagles vs. P3-Henderson Silver Knights\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:5287118a5215e0f51121@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260505T220000Z
+DTEND:20260506T010000Z
+SUMMARY:QMJHL Playoffs — Blainville-Boisbriand\, Armada at Moncton\, Wildcats
+DESCRIPTION:Playoffs — M\n7:00 PM AT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
+LOCATION:Avenir Centre\, Moncton (NB)
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1176e7768d0324a98f@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260505T230000Z
+DTEND:20260506T020000Z
+SUMMARY:AHL Playoffs — Laval at Toronto
+DESCRIPTION:Calder Cup Playoffs — \nN1-Laval Rocket vs. N4-Toronto Marlies\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:5747979d81017c8f450c@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260505T230500Z
+DTEND:20260506T020500Z
+SUMMARY:AHL Playoffs — Providence at Springfield
+DESCRIPTION:Calder Cup Playoffs — \nA1-Providence Bruins vs. A6-Springfield Thunderbirds\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:b56920a1b3a772f9f324@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260506T000000Z
+DTEND:20260506T030000Z
+SUMMARY:AHL Playoffs — Texas at Chicago
+DESCRIPTION:Calder Cup Playoffs — \nC2-Chicago Wolves vs. C3-Texas Stars\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
 UID:5d2a12ae5a051bbacd06@playoffs-2026
-DTSTAMP:20260502T050006Z
+DTSTAMP:20260504T154657Z
 DTSTART:20260506T000000Z
 DTEND:20260506T030000Z
 SUMMARY:AHL Playoffs — Texas at Chicago
 DESCRIPTION:Calder Cup Playoffs — Central Division Semifinals (best-of-5)\nC2-Chicago Wolves vs. C3-Texas Stars\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
 END:VEVENT
 BEGIN:VEVENT
-UID:d41845cd75c95b87c764@playoffs-2026
-DTSTAMP:20260502T050006Z
-DTSTART:20260506T010000Z
-DTEND:20260506T040000Z
-SUMMARY:WHL Playoffs — Medicine Hat Tigers at Prince Albert Raiders
-DESCRIPTION:Playoffs — M\n7:00 PM ST\nSource: https://chl.ca/whl/schedule/217/293/
-LOCATION:Art Hauser Centre - Prince Albert\, SK\, Prince Albert
+UID:3ea2027065cd7e1fb8ff@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260506T000000Z
+DTEND:20260506T030000Z
+SUMMARY:NHL Playoffs — Minnesota at Colorado
+DESCRIPTION:Stanley Cup Playoffs — Minnesota Wild (3C) vs. Colorado Avalanche (1C)\nGame 2. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:0e0b63d7f086fed361d7@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260506T020000Z
+DTEND:20260506T050000Z
+SUMMARY:AHL Playoffs — Ontario at Coachella Valley
+DESCRIPTION:Calder Cup Playoffs — \nP1-Ontario Reign vs. P4-Coachella Valley Firebirds\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:d498e0da8d839c9df33f@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260506T230000Z
+DTEND:20260507T020000Z
+SUMMARY:AHL Playoffs — Manitoba at Grand Rapids
+DESCRIPTION:Calder Cup Playoffs — \nC1-Grand Rapids Griffins vs. C4-Manitoba Moose\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:694a5ff2c2f72af9675a@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260506T230000Z
+DTEND:20260507T020000Z
+SUMMARY:NHL Playoffs — Montreal at Buffalo
+DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 1. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:6c40998f712c58e7306e@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260507T010500Z
+DTEND:20260507T040500Z
+SUMMARY:AHL Playoffs — Henderson at Colorado
+DESCRIPTION:Calder Cup Playoffs — \nP2-Colorado Eagles vs. P3-Henderson Silver Knights\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:ddde49354dbf0f2ede3a@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260507T013000Z
+DTEND:20260507T043000Z
+SUMMARY:NHL Playoffs — Anaheim at Vegas
+DESCRIPTION:Stanley Cup Playoffs — Anaheim Ducks (3P) vs. Vegas Golden Knights (1P)\nGame 2. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:c265e246a768ce0316b0@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260507T230500Z
+DTEND:20260508T020500Z
+SUMMARY:AHL Playoffs — Providence at Springfield
+DESCRIPTION:Calder Cup Playoffs — \nA1-Providence Bruins vs. A6-Springfield Thunderbirds\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9e9fc5fa04755ba7c7@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260508T000000Z
+DTEND:20260508T030000Z
+SUMMARY:NHL Playoffs — Carolina at Philadelphia
+DESCRIPTION:Stanley Cup Playoffs — Philadelphia Flyers (3M) vs. Carolina Hurricanes (1M)\nGame 3. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:eec8e989a3d513e81888@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260508T020000Z
+DTEND:20260508T050000Z
+SUMMARY:AHL Playoffs — Ontario at Coachella Valley
+DESCRIPTION:Calder Cup Playoffs — \nP1-Ontario Reign vs. P4-Coachella Valley Firebirds\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:10dbeeada13c503e3df9@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260508T230000Z
+DTEND:20260509T020000Z
+SUMMARY:AHL Playoffs — Manitoba at Grand Rapids
+DESCRIPTION:Calder Cup Playoffs — \nC1-Grand Rapids Griffins vs. C4-Manitoba Moose\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:7c6d3b28325acb4d023d@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260508T230000Z
+DTEND:20260509T020000Z
+SUMMARY:AHL Playoffs — Toronto at Laval
+DESCRIPTION:Calder Cup Playoffs — \nN1-Laval Rocket vs. N4-Toronto Marlies\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc6edfa66d43fe44f27@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260508T230000Z
+DTEND:20260509T020000Z
+SUMMARY:NHL Playoffs — Montreal at Buffalo
+DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 2. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:e09d756b9dcc43387061@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260509T013000Z
+DTEND:20260509T043000Z
+SUMMARY:NHL Playoffs — Vegas at Anaheim
+DESCRIPTION:Stanley Cup Playoffs — Anaheim Ducks (3P) vs. Vegas Golden Knights (1P)\nGame 3. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:b0536771ee86b0c1a62b@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260509T210000Z
+DTEND:20260510T000000Z
+SUMMARY:AHL Playoffs — Cleveland at Syracuse
+DESCRIPTION:Calder Cup Playoffs — \nN2-Syracuse Crunch vs. N3-Cleveland Monsters\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
 END:VEVENT
 BEGIN:VEVENT
 UID:eb441732d4a07f3f72d2@playoffs-2026
-DTSTAMP:20260502T050006Z
+DTSTAMP:20260504T154657Z
 DTSTART:20260509T210000Z
 DTEND:20260510T000000Z
 SUMMARY:AHL Playoffs — Cleveland at Syracuse
 DESCRIPTION:Calder Cup Playoffs — North Division Semifinals (best-of-5)\nN2-Syracuse Crunch vs. N3-Cleveland Monsters\nSource: https://theahl.com/news/opening-schedules-2026-calder-cup-playoffs
+END:VEVENT
+BEGIN:VEVENT
+UID:d7bf71bdfac008c96ee0@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260509T220000Z
+DTEND:20260510T010000Z
+SUMMARY:NHL Playoffs — Carolina at Philadelphia
+DESCRIPTION:Stanley Cup Playoffs — Philadelphia Flyers (3M) vs. Carolina Hurricanes (1M)\nGame 4. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:35b30a7eed4657bdb567@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260509T230000Z
+DTEND:20260510T020000Z
+SUMMARY:AHL Playoffs — Manitoba at Grand Rapids
+DESCRIPTION:Calder Cup Playoffs — \nC1-Grand Rapids Griffins vs. C4-Manitoba Moose\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ce8a8606821108e08f@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260509T230500Z
+DTEND:20260510T020500Z
+SUMMARY:AHL Playoffs — Springfield at Providence
+DESCRIPTION:Calder Cup Playoffs — \nA1-Providence Bruins vs. A6-Springfield Thunderbirds\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:175e142af05880fcd7b1@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260510T000500Z
+DTEND:20260510T030500Z
+SUMMARY:AHL Playoffs — Henderson at Colorado
+DESCRIPTION:Calder Cup Playoffs — \nP2-Colorado Eagles vs. P3-Henderson Silver Knights\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:8b2ad8df2210e370f367@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260510T010000Z
+DTEND:20260510T040000Z
+SUMMARY:AHL Playoffs — Coachella Valley at Ontario
+DESCRIPTION:Calder Cup Playoffs — \nP1-Ontario Reign vs. P4-Coachella Valley Firebirds\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:268c44f0ca8197107660@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260510T010000Z
+DTEND:20260510T040000Z
+SUMMARY:NHL Playoffs — Colorado at Minnesota
+DESCRIPTION:Stanley Cup Playoffs — Minnesota Wild (3C) vs. Colorado Avalanche (1C)\nGame 3. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:c7076a42389a26e89860@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260510T230000Z
+DTEND:20260511T020000Z
+SUMMARY:NHL Playoffs — Buffalo at Montreal
+DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 3. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+END:VEVENT
+BEGIN:VEVENT
+UID:7af6ad3e860da2219b81@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260511T000500Z
+DTEND:20260511T030500Z
+SUMMARY:AHL Playoffs — Henderson at Colorado
+DESCRIPTION:Calder Cup Playoffs — \nP2-Colorado Eagles vs. P3-Henderson Silver Knights\nSource: https://theahl.com/news/schedules-set-for-2026-calder-cup-division-semifinals
+END:VEVENT
+BEGIN:VEVENT
+UID:245a40ee7bd143873a0b@playoffs-2026
+DTSTAMP:20260504T154657Z
+DTSTART:20260511T013000Z
+DTEND:20260511T043000Z
+SUMMARY:NHL Playoffs — Vegas at Anaheim
+DESCRIPTION:Stanley Cup Playoffs — Anaheim Ducks (3P) vs. Vegas Golden Knights (1P)\nGame 4. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
 END:VEVENT
 END:VCALENDAR
