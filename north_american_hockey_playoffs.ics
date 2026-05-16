@@ -6,150 +6,37 @@ METHOD:PUBLISH
 X-WR-CALNAME:North American Hockey Playoffs 2026
 X-WR-TIMEZONE:UTC
 BEGIN:VEVENT
-UID:0541a8dd92d0702659af@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260512T000000Z
-DTEND:20260512T030000Z
-SUMMARY:NHL Playoffs — Colorado at Minnesota
-DESCRIPTION:Stanley Cup Playoffs — Minnesota Wild (3C) vs. Colorado Avalanche (1C)\nGame 4. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
-END:VEVENT
-BEGIN:VEVENT
-UID:39c50ca1acf5c9162c78@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260512T230000Z
-DTEND:20260513T020000Z
+UID:99bf9e1854d259176dd8@playoffs-2026
+DTSTAMP:20260516T234730Z
+DTSTART:20260517T000000Z
+DTEND:20260517T030000Z
 SUMMARY:NHL Playoffs — Buffalo at Montreal
-DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 4. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 6. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
 END:VEVENT
 BEGIN:VEVENT
-UID:fb020d46c3a65a3e9be4@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260512T230000Z
-DTEND:20260513T020000Z
-SUMMARY:OHL Playoffs — Kitchener Rangers at Barrie Colts
-DESCRIPTION:Playoffs — O\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
-LOCATION:Sadlon Arena\, Barrie\, ON
-END:VEVENT
-BEGIN:VEVENT
-UID:a9bd0ab874a7b4a3d7bc@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260512T230000Z
-DTEND:20260513T020000Z
+UID:8cfb91fa6e01eebf5136@playoffs-2026
+DTSTAMP:20260516T234730Z
+DTSTART:20260517T230000Z
+DTEND:20260518T020000Z
 SUMMARY:QMJHL Playoffs — Moncton\, Wildcats at Chicoutimi\, Saguenéens
 DESCRIPTION:Playoffs — O\n7:00 PM EDT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
 LOCATION:Centre Georges-Vézina\, Chicoutimi QC
 END:VEVENT
 BEGIN:VEVENT
-UID:541d53b3720b5e14a642@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260513T013000Z
-DTEND:20260513T043000Z
-SUMMARY:NHL Playoffs — Anaheim at Vegas
-DESCRIPTION:Stanley Cup Playoffs — Anaheim Ducks (3P) vs. Vegas Golden Knights (1P)\nGame 5. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
-END:VEVENT
-BEGIN:VEVENT
-UID:976e02d0f569196a44e1@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260513T013000Z
-DTEND:20260513T043000Z
-SUMMARY:WHL Playoffs — Everett Silvertips at Prince Albert Raiders
-DESCRIPTION:Playoffs — O\n7:30 PM MDT\nSource: https://chl.ca/whl/schedule/217/293/
-LOCATION:Art Hauser Centre - Prince Albert\, SK\, Prince Albert
-END:VEVENT
-BEGIN:VEVENT
-UID:980a078853a9f0f6c7f9@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260513T230000Z
-DTEND:20260514T020000Z
-SUMMARY:QMJHL Playoffs — Moncton\, Wildcats at Chicoutimi\, Saguenéens
-DESCRIPTION:Playoffs — O\n7:00 PM EDT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
-LOCATION:Centre Georges-Vézina\, Chicoutimi QC
-END:VEVENT
-BEGIN:VEVENT
-UID:a0f71d825c4618c4fa36@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260514T000000Z
-DTEND:20260514T030000Z
-SUMMARY:NHL Playoffs — Minnesota at Colorado
-DESCRIPTION:Stanley Cup Playoffs — Minnesota Wild (3C) vs. Colorado Avalanche (1C)\nGame 5. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
-END:VEVENT
-BEGIN:VEVENT
-UID:d0ae619d82d12d4dc9bd@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260514T013000Z
-DTEND:20260514T043000Z
-SUMMARY:WHL Playoffs — Everett Silvertips at Prince Albert Raiders
-DESCRIPTION:Playoffs — O\n7:30 PM MDT\nSource: https://chl.ca/whl/schedule/217/293/
-LOCATION:Art Hauser Centre - Prince Albert\, SK\, Prince Albert
-END:VEVENT
-BEGIN:VEVENT
-UID:5498a750db9a7cc8a521@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260514T230000Z
-DTEND:20260515T020000Z
+UID:ca1de247334e6553dc87@playoffs-2026
+DTSTAMP:20260516T234730Z
+DTSTART:20260518T233000Z
+DTEND:20260519T023000Z
 SUMMARY:NHL Playoffs — Montreal at Buffalo
-DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 5. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
+DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 7. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
 END:VEVENT
 BEGIN:VEVENT
-UID:eb0c6851caaa612f9396@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260514T230000Z
-DTEND:20260515T020000Z
-SUMMARY:OHL Playoffs — Barrie Colts at Kitchener Rangers
-DESCRIPTION:Playoffs — O\n7:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
-LOCATION:Kitchener Memorial Auditorium\, Kitchener
-END:VEVENT
-BEGIN:VEVENT
-UID:11dbe017f5cecbee172a@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260515T013000Z
-DTEND:20260515T043000Z
-SUMMARY:NHL Playoffs — Vegas at Anaheim
-DESCRIPTION:Stanley Cup Playoffs — Anaheim Ducks (3P) vs. Vegas Golden Knights (1P)\nGame 6. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
-END:VEVENT
-BEGIN:VEVENT
-UID:6956b7c1eeae42a957a9@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260516T013000Z
-DTEND:20260516T043000Z
-SUMMARY:WHL Playoffs — Everett Silvertips at Prince Albert Raiders
-DESCRIPTION:Playoffs — O\n7:30 PM MDT\nSource: https://chl.ca/whl/schedule/217/293/
-LOCATION:Art Hauser Centre - Prince Albert\, SK\, Prince Albert
-END:VEVENT
-BEGIN:VEVENT
-UID:30aa898a8e1c1d464392@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260516T220000Z
-DTEND:20260517T010000Z
-SUMMARY:OHL Playoffs — Kitchener Rangers at Barrie Colts
-DESCRIPTION:Playoffs — O\n6:00 PM EDT\nSource: https://chl.ca/ohl/schedule/217/293/
-LOCATION:Sadlon Arena\, Barrie\, ON
-END:VEVENT
-BEGIN:VEVENT
-UID:965024937fe093dca60c@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260518T020000Z
-DTEND:20260518T050000Z
-SUMMARY:WHL Playoffs — Prince Albert Raiders at Everett Silvertips
-DESCRIPTION:Playoffs — O\n7:00 PM PDT\nSource: https://chl.ca/whl/schedule/217/293/
-LOCATION:Angel of the Winds Arena - Everett\, WA\, Everett\, WA
-END:VEVENT
-BEGIN:VEVENT
-UID:a4c78153d5c0b677bd23@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260518T040000Z
-DTEND:20260518T070000Z
-SUMMARY:OHL Playoffs — Barrie Colts at Kitchener Rangers
-DESCRIPTION:Playoffs — O\nTBD\nSource: https://chl.ca/ohl/schedule/217/293/
-LOCATION:Kitchener Memorial Auditorium\, Kitchener
-END:VEVENT
-BEGIN:VEVENT
-UID:bb6641c7b303798190f1@playoffs-2026
-DTSTAMP:20260511T143602Z
-DTSTART:20260519T020000Z
-DTEND:20260519T050000Z
-SUMMARY:WHL Playoffs — Prince Albert Raiders at Everett Silvertips
-DESCRIPTION:Playoffs — O\n7:00 PM PDT\nSource: https://chl.ca/whl/schedule/217/293/
-LOCATION:Angel of the Winds Arena - Everett\, WA\, Everett\, WA
+UID:fb62dd5a4f0e95106c66@playoffs-2026
+DTSTAMP:20260516T234730Z
+DTSTART:20260519T220000Z
+DTEND:20260520T010000Z
+SUMMARY:QMJHL Playoffs — Chicoutimi\, Saguenéens at Moncton\, Wildcats
+DESCRIPTION:Playoffs — O\n7:00 PM AT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
+LOCATION:Avenir Centre\, Moncton (NB)
 END:VEVENT
 END:VCALENDAR
