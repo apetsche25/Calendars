@@ -5,38 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:North American Hockey Playoffs 2026
 X-WR-TIMEZONE:UTC
-BEGIN:VEVENT
-UID:99bf9e1854d259176dd8@playoffs-2026
-DTSTAMP:20260516T234730Z
-DTSTART:20260517T000000Z
-DTEND:20260517T030000Z
-SUMMARY:NHL Playoffs — Buffalo at Montreal
-DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 6. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
-END:VEVENT
-BEGIN:VEVENT
-UID:8cfb91fa6e01eebf5136@playoffs-2026
-DTSTAMP:20260516T234730Z
-DTSTART:20260517T230000Z
-DTEND:20260518T020000Z
-SUMMARY:QMJHL Playoffs — Moncton\, Wildcats at Chicoutimi\, Saguenéens
-DESCRIPTION:Playoffs — O\n7:00 PM EDT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
-LOCATION:Centre Georges-Vézina\, Chicoutimi QC
-END:VEVENT
-BEGIN:VEVENT
-UID:ca1de247334e6553dc87@playoffs-2026
-DTSTAMP:20260516T234730Z
-DTSTART:20260518T233000Z
-DTEND:20260519T023000Z
-SUMMARY:NHL Playoffs — Montreal at Buffalo
-DESCRIPTION:Stanley Cup Playoffs — Montreal Canadiens (3A) vs. Buffalo Sabres (1A)\nGame 7. Source times published by NHL page.\nSource: https://www.nhl.com/news/2026-stanley-cup-playoffs-second-round-schedule-television-results
-END:VEVENT
-BEGIN:VEVENT
-UID:fb62dd5a4f0e95106c66@playoffs-2026
-DTSTAMP:20260516T234730Z
-DTSTART:20260519T220000Z
-DTEND:20260520T010000Z
-SUMMARY:QMJHL Playoffs — Chicoutimi\, Saguenéens at Moncton\, Wildcats
-DESCRIPTION:Playoffs — O\n7:00 PM AT\nSource: https://chl.ca/lhjmq/en/schedule/217/293/
-LOCATION:Avenir Centre\, Moncton (NB)
-END:VEVENT
 END:VCALENDAR
